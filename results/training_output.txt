@@ -1,0 +1,17 @@
+Steel Plates Faults - ML Assignment 2
+Python 3.12.14 | scikit-learn 1.8.0
+Dataset: 1941 rows, 27 features, 7 classes
+Stratified split: train=1552, test=389, seed=5801
+Precision / Recall / F1: macro across seven classes; AUC: macro OvR
+
+         ML Model Name  Accuracy    AUC  Precision  Recall     F1    MCC
+   Logistic Regression    0.7018 0.9218     0.7068  0.6967 0.7003 0.6150
+         Decision Tree    0.7249 0.8953     0.7529  0.7169 0.7301 0.6488
+                   KNN    0.7224 0.9378     0.7356  0.7414 0.7371 0.6438
+           Naive Bayes    0.5835 0.9203     0.6044  0.7041 0.6121 0.5169
+Support Vector Machine    0.7558 0.9552     0.7918  0.7449 0.7641 0.6839
+
+Highest held-out macro F1: Support Vector Machine (0.7641)
+This execution does not by itself prove BITS Virtual Lab usage.
+
+Saved five pipelines, test CSV, comparison chart and evaluation outputs.

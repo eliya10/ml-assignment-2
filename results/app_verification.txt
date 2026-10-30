@@ -1,0 +1,7 @@
+PASS: uploaded held-out CSV evaluates all models with all fit methods blocked
+PASS: feature-column reordering preserves evaluation results
+PASS: rejected missing target in the uploaded CSV
+PASS: rejected invalid numeric in the uploaded CSV
+PASS: rejected unknown target in the uploaded CSV
+PASS: rejected unexpected column in the uploaded CSV
+PASS: single-class upload displays AUC as N/A with an explanation
