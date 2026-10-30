@@ -35,7 +35,7 @@ The original `Faults.NNA` and `Faults27x7_var` files were obtained from the UCI 
 
 ## c. Github Repository Link
 
-Repository link: Not published yet.
+Repository link: (https://github.com/eliya10/ml-assignment-2)
 
 The actual repository URL must be entered here after publishing, and the updated README must be committed and pushed before the final PDF is produced.
 
